@@ -1,7 +1,7 @@
 {
   "name": "jquery-namespace",
   "main": "js/src/jquery-namespace.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/aureooms/jquery-namespace",
   "description": "namespace plugin for jQuery",
   "keywords": [
