@@ -1,4 +1,13 @@
 (function ($) {
+	
+	/**
+	 * A namespace objet allows to declare new methods
+	 * for jQuery objects that are isolated of the jQuery prototype
+	 * to avoid name clashes. Unlike other approaches it doesn't copy
+	 * the jQuery prototype in new namespaces. Standard jQuery methods,
+	 * should be called on raw jQuery objects.
+	 * 
+	 */
 		
 	var namespace = function () {
 
