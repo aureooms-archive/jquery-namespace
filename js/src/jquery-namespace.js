@@ -29,7 +29,6 @@
 		_namespace.fn = _namespace.prototype;
 
 		_namespace.fn.constructor = _namespace;
-		
 		_namespace.fn.length = 0;
 		_namespace.fn.push = [].push;
 		_namespace.fn.splice = [].splice;
